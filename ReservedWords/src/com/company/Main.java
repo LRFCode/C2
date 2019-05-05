@@ -4,8 +4,8 @@ public class Main
 {
     public static void main(String[] args)
     {
-        //changed from final to finalAnswer since final is a reserved word
-        int finalAnswer = 5;
-        System.out.println(finalAnswer);
+        //changed from void to value since void is a reserved word
+        int value = 5;
+        System.out.println(value);
     }
 }
